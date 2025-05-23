@@ -1,0 +1,38 @@
+## 🛠️ Skills and Interests
+
+### 📂 Evidence
+
+My music player project allowed me to apply a variety of technical and soft skills in a practical, real-world scenario. Here’s a breakdown:
+
+**Technical Skills Demonstrated:**
+- Python programming with Tkinter and Pygame
+- Audio playback and media control implementation
+- Custom UI design and theme customization
+- File handling and drag-and-drop functionality
+- Real-time updates (Now Playing feature)
+- Keyboard shortcut integration
+
+**Soft Skills Applied:**
+- Problem-solving during integration bugs
+- UI/UX thinking while designing the mini display
+- Time management to deliver key features progressively
+- Self-learning to implement advanced functionalities like a real-time visualizer
+
+**Interests Reinforced:**
+- Building interactive desktop applications
+- Enhancing user experience through interface design
+- Exploring Python’s potential for creative software projects
+
+### 💡 Reflection (STAR Technique)
+
+**Situation:**  
+I wanted to challenge myself by building a fully functional desktop music player using Python.
+
+**Task:**  
+My goal was to go beyond basic playback by including advanced features like a Now Playing mini-display, custom themes, keyboard shortcuts, and real-time visual feedback.
+
+**Action:**  
+I used Python with Tkinter for the interface and Pygame for audio playback. I implemented drag-and-drop functionality, customized the UI, and added real-time updates. I also learned how to handle file paths, error checking, and user feedback for smoother interactions.
+
+**Result:**  
+This project sharpened both my backend and UI development skills, confirmed my interest in desktop app development, and boosted my confidence in turning creative ideas into working software. It also improved my ability to break down complex tasks into manageable parts.
